@@ -1,4 +1,4 @@
-package src;
+package src.Basics;
 
 public class firstclass {
 
