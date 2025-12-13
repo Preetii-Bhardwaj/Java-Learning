@@ -10,6 +10,7 @@ public class condition1 {
     }
     else{
          System.out.println("Not Adult");
+         
     }
 
   }
