@@ -26,7 +26,7 @@ public class button{
             case 3:System.out.println("banana shake");
             break;    
             default: System.out.println("invalid");
-                break;
+               
         }    
     }
 }
